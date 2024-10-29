@@ -16,7 +16,7 @@ Input: s = "jar", t = "jam"
 Output: false
 Constraints:
 
-s and t consist of lowercase English letters.
+s and t consist of lowercase English letters. 
 
 class Solution {
   /**
