@@ -39,5 +39,5 @@ twoSum(nums, target){
             }
         }
         return [];
-    
+    }
 }
